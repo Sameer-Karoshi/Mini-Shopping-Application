@@ -5,3 +5,4 @@
 - Added sort by price and sort by category features.
 - All data from the api endpoint will be fetched using NSURLSession.
 - Implemented ImageDownloader class from which product image will be downloaded using NSURLSessionDataTask.
+- Added video of this application (https://github.com/Sameer-Karoshi/Mini-Shopping-Application/blob/master/Mini-Shopping-Application-Video.mov).
